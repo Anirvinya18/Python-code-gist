@@ -1,5 +1,6 @@
 Scanner code here
-
+import nmap
+import optparse
 
 def nmapScan(tgtHost, tgtPort):
     nmScan = nmap.PortScanner()
