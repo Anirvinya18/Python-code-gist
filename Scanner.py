@@ -27,3 +27,7 @@ def main():
         nmapScan(tgtHost, tgtPort)
 
 if __name__ == '__main__':
+exit()
+Success
+Else
+Print(error with code)
